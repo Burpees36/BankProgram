@@ -100,20 +100,6 @@ void Banking::welcomeScreen() {
 		
 	}
 
-	/*cin >> t_initial;
-	setInitialInvestment(t_initial);
-	cout << "Monthly Deposit: " << endl;
-	cin >> t_monthly;
-	setMonthlyDeposit(t_monthly);
-	cout << "Annual Interest %: " << endl;
-	cin >> t_interest;
-	setInterestRate(t_interest);
-	cout << "Number of years: " << endl;
-	cin >> t_years;
-	setNumYears(t_years);
-	cout << "--------------------------------------" << endl;
-	cout << endl;
-	*/
 }
 
 
