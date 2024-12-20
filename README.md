@@ -1,4 +1,4 @@
-# CS-210-ClocksProgram
+# CS-210-BankProgram
 
 ## Project Summary: 
 I created an application that allowed a user to set an initial investment, monthly deposits, interest rate, number of months and display their return with and without monthly deposits. The project is in C++ and consists of 3 files. The program had the following requirements:
